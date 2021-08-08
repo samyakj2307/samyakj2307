@@ -83,7 +83,7 @@
 
 ##
 - I am currently listening:</br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4ndhz826rz40i0x3t1ze7xqcy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=4ndhz826rz40i0x3t1ze7xqcy&redirect=true)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4ndhz826rz40i0x3t1ze7xqcy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=4ndhz826rz40i0x3t1ze7xqcy&redirect=true)
 
 - Checkout my Spotify Playlist:
 <p  align="center">
