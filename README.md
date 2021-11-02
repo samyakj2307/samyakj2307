@@ -78,7 +78,11 @@
 ##
 ###
 <p  align="center" text-align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samyakj2307&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakj2307&theme=blue-green)](https://git.io/streak-stats)
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=samyakj2307&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 </p>
 
 ##
