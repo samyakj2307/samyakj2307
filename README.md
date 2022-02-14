@@ -91,7 +91,7 @@
 
 - Checkout my Spotify Playlist:
 <p  align="center">
-<a href="https://open.spotify.com/playlist/6dwwdSvXkyImjxCONSW8Lv"><img src="https://i.scdn.co/image/ab67706c0000bebb6ecd661d7bfc5a49aef192b6" width="180px" height="180px">
+<a href="https://open.spotify.com/playlist/6dwwdSvXkyImjxCONSW8Lv"><img src="https://i.scdn.co/image/ab67706c0000bebb0eca6fb9939a773c5bca969a" width="180px" height="180px">
 </a>
 </p>
 
