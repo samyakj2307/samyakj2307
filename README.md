@@ -5,7 +5,7 @@
 **samyakj2307/samyakj2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Jetpack Compose.
+- 🌱 I’m currently learning something new.
 - 💬 Ask me about anything!
 - 📫 Reach me out on: &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="20px" height="20px">](mailto:jainsamyak2300@gmail.com)
   &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px">](https://www.linkedin.com/in/samyakj2307/)
