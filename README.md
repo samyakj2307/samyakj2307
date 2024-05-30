@@ -14,7 +14,9 @@
 - ⚡ Fun fact: I am a Melophile🎵!!
 
 ## Tech Stack:
-
+<a href="https://internetcomputer.org" title="Internet Computer Chain">
+<img src="https://internetcomputer.org/img/IC_logo_horizontal_white.svg" alt=Internet Computer Chain" width="40px" height="40px">
+</a>
 <a href="" title="Jetpack Compose">
 <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" width="40px" height="40px">
 </a>
